@@ -70,7 +70,7 @@ function App() {
                   <Card.Img variant="top" src={Image1} />
                   <Card.Body>
                     <Card.Text style={{ color: "white" }}>
-                      Some quick example text for Card 1
+                    Explore Large, Destructible Environments Where No Two Games Are Ever The Same
                     </Card.Text>
                   </Card.Body>
                 </Card>
@@ -80,7 +80,7 @@ function App() {
                   <Card.Img variant="top" src={Image2} />
                   <Card.Body>
                     <Card.Text style={{ color: "white" }}>
-                      Some quick example text for Card 2
+                    Team Up With Friends By Sprinting. Climbing And Smashing Your Way To Earn Your Victory Royale
                     </Card.Text>
                   </Card.Body>
                 </Card>
@@ -90,7 +90,7 @@ function App() {
                   <Card.Img variant="top" src={Image3} />
                   <Card.Body>
                     <Card.Text style={{ color: "white" }}>
-                      Some quick example text for Card 3
+                    Discover Even More Ways To Play Across Thousands Of Creator-Made Game Genres
                     </Card.Text>
                   </Card.Body>
                 </Card>
@@ -215,7 +215,7 @@ function App() {
                     marginTop: "100px",
                   }}
                 >
-                  &copy; Your Company Name. All Rights Reserved.
+                  &copy;2019-2023 abc Technology Solutions Pvt. Ltd. All Rights Reserved
                 </p>
               </div>
             </div>
